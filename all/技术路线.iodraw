@@ -152,7 +152,7 @@
           <mxGeometry x="30" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O8mzDDvBkZWts-s55Z-P-66" value="工艺优化" style="swimlane;startSize=20;horizontal=1;containerType=tree;labelBackgroundColor=none;fillColor=#d0cee2;strokeColor=#56517e;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="15" y="496" width="180" height="240" as="geometry" />
+          <mxGeometry x="20" y="505" width="180" height="240" as="geometry" />
         </mxCell>
         <mxCell id="O8mzDDvBkZWts-s55Z-P-67" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="O8mzDDvBkZWts-s55Z-P-66" source="O8mzDDvBkZWts-s55Z-P-68" target="O8mzDDvBkZWts-s55Z-P-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
