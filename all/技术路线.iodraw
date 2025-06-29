@@ -4,10 +4,8 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="O8mzDDvBkZWts-s55Z-P-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O8mzDDvBkZWts-s55Z-P-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="280" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="00E29WqwsyEbFyy7u6cJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O8mzDDvBkZWts-s55Z-P-10" target="O8mzDDvBkZWts-s55Z-P-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O8mzDDvBkZWts-s55Z-P-10" value="基材预处理" style="swimlane;startSize=20;horizontal=1;containerType=tree;fontSize=14;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="190" width="180" height="180" as="geometry" />
