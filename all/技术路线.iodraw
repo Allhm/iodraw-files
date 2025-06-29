@@ -115,6 +115,10 @@
         <mxCell id="O8mzDDvBkZWts-s55Z-P-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O8mzDDvBkZWts-s55Z-P-54" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="204" y="637" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="216" y="625" />
+              <mxPoint x="216" y="638" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="O8mzDDvBkZWts-s55Z-P-54" value="性能表征" style="swimlane;startSize=20;horizontal=1;containerType=tree;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
