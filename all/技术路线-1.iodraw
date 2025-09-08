@@ -142,7 +142,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O8mzDDvBkZWts-s55Z-P-68" value="&lt;h3&gt;Fluent/SPH 模拟&lt;/h3&gt;&lt;h3&gt;液滴的铺展行为&lt;/h3&gt;" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};labelBackgroundColor=none;fillColor=#d0cee2;strokeColor=#56517e;" parent="O8mzDDvBkZWts-s55Z-P-66" vertex="1">
-          <mxGeometry x="30" y="56" width="120" height="64" as="geometry" />
+          <mxGeometry x="30" y="49" width="120" height="73" as="geometry" />
         </mxCell>
         <mxCell id="O8mzDDvBkZWts-s55Z-P-69" value="&lt;h3&gt;获取胶层厚度分布规律&lt;/h3&gt;" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};labelBackgroundColor=none;fillColor=#d0cee2;strokeColor=#56517e;" parent="O8mzDDvBkZWts-s55Z-P-66" vertex="1">
           <mxGeometry x="30" y="153" width="120" height="62" as="geometry" />
