@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O8mzDDvBkZWts-s55Z-P-15" value="基底准备" style="swimlane;startSize=20;horizontal=1;containerType=tree;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="438" y="123" width="180" height="273" as="geometry" />
+          <mxGeometry x="438" y="121" width="180" height="310" as="geometry" />
         </mxCell>
         <mxCell id="O8mzDDvBkZWts-s55Z-P-16" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="O8mzDDvBkZWts-s55Z-P-15" source="O8mzDDvBkZWts-s55Z-P-17" target="O8mzDDvBkZWts-s55Z-P-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
