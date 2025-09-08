@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="O8mzDDvBkZWts-s55Z-P-10" value="理论建模" style="swimlane;startSize=20;horizontal=1;containerType=tree;fontSize=14;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="20" y="190" width="180" height="180" as="geometry" />
+          <mxGeometry x="15" y="186" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="O8mzDDvBkZWts-s55Z-P-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=classic;rounded=0;curved=0;strokeWidth=2;startFill=0;endFill=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="O8mzDDvBkZWts-s55Z-P-10" source="O8mzDDvBkZWts-s55Z-P-12" target="O8mzDDvBkZWts-s55Z-P-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
