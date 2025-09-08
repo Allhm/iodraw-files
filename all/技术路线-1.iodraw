@@ -99,7 +99,7 @@
             <mxPoint x="340" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O8mzDDvBkZWts-s55Z-P-50" value="&lt;h3&gt;脱模&lt;/h3&gt;" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="O8mzDDvBkZWts-s55Z-P-45" vertex="1">
+        <mxCell id="O8mzDDvBkZWts-s55Z-P-50" value="&lt;h3&gt;缺陷检测&lt;/h3&gt;" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="O8mzDDvBkZWts-s55Z-P-45" vertex="1">
           <mxGeometry x="30" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O8mzDDvBkZWts-s55Z-P-51" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="O8mzDDvBkZWts-s55Z-P-45" source="O8mzDDvBkZWts-s55Z-P-50" target="O8mzDDvBkZWts-s55Z-P-52" edge="1">
